@@ -1,0 +1,4 @@
+CREATE TABLE mahasiswa (
+  npm VARCHAR(10) PRIMARY KEY NOT NULL,
+  nama TEXT
+);
